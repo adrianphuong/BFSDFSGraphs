@@ -1,2 +1,2 @@
-# BFSDFSGraphs
+# Breadth-First-Search and Depth-First-Search Algorithms to find shortest path between any vertices
 The computer program reads a text file containing a graph search problem, which consists of a representation of a directed graph and a search that must be performed. The text file's first line contains a number that indicates how many vertices will be present in the graph. The search problem's starting vertex and ending vertex are provided in the second line. The program's objective is to identify a path through the directed graph from beginning to end. The graph gains a directed edge for each line that comes after it in the file.
